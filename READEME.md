@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="[https://your-banner-image-url.com/banner.png](https://www.pinterest.com/pin/686939749401446308/)" alt="Banner" />
+<img src="https://www.reddit.com/r/PixelArt/comments/ounggi/outer_space_purple_theme_this_is_my_second_pixel/?tl=fil" alt="Banner" />
 
 🔭 I’m currently working on  
 Web game development, focusing on 2D platformers.
