@@ -38,11 +38,3 @@ I’ve worked with clients like McDonald's and DreamWorks on web projects!
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kkplak&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kkplak&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kkplak&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kkplak&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
