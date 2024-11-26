@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://your-banner-image-url.com/banner.png" alt="Banner" />
+<img src="[https://your-banner-image-url.com/banner.png](https://www.pinterest.com/pin/686939749401446308/)" alt="Banner" />
 
 🔭 I’m currently working on  
 Web game development, focusing on 2D platformers.
@@ -20,9 +20,9 @@ Web development and game mechanics.
 I’ve worked with clients like McDonald's and DreamWorks on web projects!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kkplak)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kkplak)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://your-portfolio-url.com)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -45,31 +45,8 @@ I’ve worked with clients like McDonald's and DreamWorks on web projects!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kkplak&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-## 💻 Open Source Contributions
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/kkplak)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-<img src="https://media.giphy.com/media/your-giphy-id/giphy.gif" width="500"/>
 
 
-## 🚀 Projects:
-
-### [🎮 Awesome Game Project](https://github.com/kkplak/awesome-game)
-A 2D platformer with unique mechanics.
-
-### [🛠️ Game Framework](https://github.com/kkplak/game-framework)
-A framework for real-time attribute tracking in games.
-
-📫 **How to reach me**: [Email Me](mailto:your-email@example.com)
-
-
-![Skill Graph](https://github-readme-skills.vercel.app/api/skills?username=kkplak)
 
 
 
