@@ -7,10 +7,10 @@ Web game development, custom web experiences.
 Game design, web development, and interactive projects.
 
 🤝 I’m looking for help with  
-Advanced JavaScript techniques and optimization strategies.
+Optimization strategies.
 
 🌱 I’m currently learning  
-Game frameworks, basic 3D design, and improving frontend development skills.
+Game engines, basic 3D design, and improving frontend development skills.
 
 💬 Ask me about  
 Web development and game mechanics.
