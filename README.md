@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🔭 I’m currently working on  
-Web game development, custom web page experiences.
+Web game development, custom web experiences.
 
 👯 I’m looking to collaborate on  
 Game design, web development, and interactive projects.
