@@ -16,7 +16,7 @@ Game engines, basic 3D design, and improving frontend development skills.
 Web development and game mechanics.
 
 ⚡ Fun fact  
-I’ve worked with clients like McDonald's and DreamWorks on web projects!
+I’ve worked with clients like McDonald's, Marvel, Disney, Universal Studios and DreamWorks on web projects!
 
 
 ## 🌐 Socials:
