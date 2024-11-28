@@ -21,7 +21,7 @@ I’ve worked with clients like McDonald's and DreamWorks on web projects!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kkplak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)]((https://codeline-pink.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://codeline-pink.vercel.app/)
 
 
 # 💻 Tech Stack:
