@@ -10,10 +10,10 @@ Game design, web development, and interactive projects.
 Optimization strategies.
 
 🌱 I’m currently learning  
-Game engines, basic 3D design, and improving frontend development skills.
+Improving frontend development skills, game engines and basic 3D design.
 
 💬 Ask me about  
-Web development and game mechanics.
+Web development and game mechanics and MMORPGS :)
 
 ⚡ Fun fact  
 I’ve worked with clients like McDonald's, Marvel, Disney, Universal Studios and DreamWorks on web projects!
