@@ -1,27 +1,9 @@
-# 💫 About Me:
 
-🔭 I’m currently working on  
-Web game development, custom web experiences.
-
-👯 I’m looking to collaborate on  
-Game design, web development, and interactive projects.
-
-🤝 I’m looking for help with  
-Optimization strategies.
-
-🌱 I’m currently learning  
-Improving frontend development skills, game engines and basic 3D design.
-
-💬 Ask me about  
-Web development and game mechanics and MMORPGS :)
-
-⚡ Fun fact  
-I’ve worked with clients like McDonald's, Marvel, Disney, Universal Studios and DreamWorks on web projects!
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kkplak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://codeline-pink.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://konrads-digital-space.vercel.app/)
 
 
 # 💻 Tech Stack:
